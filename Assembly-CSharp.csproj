@@ -60,18 +60,18 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\FollowVehicule.cs" />
     <Compile Include="Assets\Prefabs\GameManager.cs" />
     <Compile Include="Assets\Scripts\Credit.cs" />
     <Compile Include="Assets\Scripts\EndTrigger.cs" />
     <Compile Include="Assets\Scripts\FollowPlayer.cs" />
+    <Compile Include="Assets\Scripts\FollowVehicule.cs" />
     <Compile Include="Assets\Scripts\LevelComplete.cs" />
     <Compile Include="Assets\Scripts\Menu.cs" />
     <Compile Include="Assets\Scripts\PlayerCollision.cs" />
     <Compile Include="Assets\Scripts\PlayerMove.cs" />
     <Compile Include="Assets\Scripts\Score.cs" />
-    <Compile Include="Assets\VehiculeCollision.cs" />
-    <Compile Include="Assets\VehiculeMove.cs" />
+    <Compile Include="Assets\Scripts\VehiculeCollision.cs" />
+    <Compile Include="Assets\Scripts\VehiculeMove.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>D:/document/UnityProjects/RunGame/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
